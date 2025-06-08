@@ -1,0 +1,17 @@
+{
+  "name": "wiki-telegram-bot",
+  "version": "1.0.0",
+  "description": "## Description An Express.js mini web app that fetches a random Wikipedia article summary and posts it to a Telegram group via bot.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^1.9.0",
+    "dotenv": "^16.5.0",
+    "express": "^5.1.0"
+  }
+}
